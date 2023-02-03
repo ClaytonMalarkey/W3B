@@ -1,0 +1,42 @@
+html {
+    color:black;
+    background-color: red;
+    display:grid;
+    display:auto;
+    display:flex;
+    width: 100%;
+    height: 100%;
+}
+body{
+    color:yellow;
+    background-color: red;
+    width: 100%;
+    height: 100%;
+    display: grid;
+    display:flex;
+}
+header{
+    color:black;
+    background-color: white;
+}
+main{
+    color:yellow;
+    background-color: black;
+    display: grid;
+    display: flex;
+    grid: Flex;
+    grid: 100%;
+}
+img{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    display:flex;
+}
+nav{
+    display: grid;
+    display:flex;
+    width: 100%;
+    height: auto;
+    float:left;
+}
